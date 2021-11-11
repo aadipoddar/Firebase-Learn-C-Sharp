@@ -1,0 +1,22 @@
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\bin\Debug\net6.0-windows\Firebase Learn C-Sharp.exe
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\bin\Debug\net6.0-windows\Firebase Learn C-Sharp.deps.json
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\bin\Debug\net6.0-windows\Firebase Learn C-Sharp.runtimeconfig.json
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\bin\Debug\net6.0-windows\Firebase Learn C-Sharp.dll
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\bin\Debug\net6.0-windows\ref\Firebase Learn C-Sharp.dll
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\bin\Debug\net6.0-windows\Firebase Learn C-Sharp.pdb
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\bin\Debug\net6.0-windows\FireSharp.dll
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\bin\Debug\net6.0-windows\FireSharp.Serialization.JsonNet.dll
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\bin\Debug\net6.0-windows\RestSharp.dll
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\obj\Debug\net6.0-windows\Firebase Learn C-Sharp.csproj.AssemblyReference.cache
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\obj\Debug\net6.0-windows\Firebase_Learn_C_Sharp.Form1.resources
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\obj\Debug\net6.0-windows\Firebase Learn C-Sharp.csproj.GenerateResource.cache
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\obj\Debug\net6.0-windows\Firebase Learn C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\obj\Debug\net6.0-windows\Firebase Learn C-Sharp.AssemblyInfoInputs.cache
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\obj\Debug\net6.0-windows\Firebase Learn C-Sharp.AssemblyInfo.cs
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\obj\Debug\net6.0-windows\Firebase Learn C-Sharp.csproj.CoreCompileInputs.cache
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\obj\Debug\net6.0-windows\Firebase Learn C-Sharp.csproj.CopyComplete
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\obj\Debug\net6.0-windows\Firebase Learn C-Sharp.dll
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\obj\Debug\net6.0-windows\ref\Firebase Learn C-Sharp.dll
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\obj\Debug\net6.0-windows\Firebase Learn C-Sharp.pdb
+D:\Firebase Learn C-Sharp\Firebase Learn C-Sharp\obj\Debug\net6.0-windows\Firebase Learn C-Sharp.genruntimeconfig.cache
